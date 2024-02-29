@@ -1,0 +1,17 @@
+.container {
+    max-width: 46rem;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.toDoForm {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.toDoForm input, .toDoForm button {
+    transform: translateY(-50%);
+    margin-bottom: 2.3125rem;
+}
