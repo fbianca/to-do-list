@@ -1,5 +1,5 @@
 :root {
-  --white: #FFFFFF;
+  --white: #fff;
   --gray-700: #0D0D0D;
   --gray-600: #1A1A1A;
   --gray-500: #262626;
@@ -23,7 +23,7 @@
 }
 
 body {
-  background: var(--gray-500);
+  background: var(--gray-600);
   -webkit-font-smoothing: antialiased;
 }
 
